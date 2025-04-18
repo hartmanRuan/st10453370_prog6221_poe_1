@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG POE 2\\st10453370_prog6221_poe_1\\PROG6221_POE_PART1_ST10453370\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA8DA61-D63D-450E-827D-F827A72F35E5}|PROG6221_POE_PART1_ST10453370.csproj|c:\\users\\lab_services_student\\desktop\\prog poe 2\\st10453370_prog6221_poe_1\\prog6221_poe_part1_st10453370\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA8DA61-D63D-450E-827D-F827A72F35E5}|PROG6221_POE_PART1_ST10453370.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG POE 2\\st10453370_prog6221_poe_1\\PROG6221_POE_PART1_ST10453370\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG POE 2\\st10453370_prog6221_poe_1\\PROG6221_POE_PART1_ST10453370\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:21:53.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
